@@ -10,6 +10,8 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'FriendsGram',
+      theme:
+          ThemeData(primarySwatch: Colors.pink, accentColor: Colors.blueAccent),
       debugShowCheckedModeBanner: false,
       home: Home(),
     );
