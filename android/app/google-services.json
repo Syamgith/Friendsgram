@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "299878432195",
+    "firebase_url": "https://friends-gram.firebaseio.com",
+    "project_id": "friends-gram",
+    "storage_bucket": "friends-gram.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299878432195:android:5be9b724a1eb1a1b7c9176",
+        "android_client_info": {
+          "package_name": "com.syamgith.friendsgram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299878432195-4imc124523mficn0es143n6t1j6v2aoe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.syamgith.friendsgram",
+            "certificate_hash": "969a675e31a20d91f8592fde50b7725f63617d23"
+          }
+        },
+        {
+          "client_id": "299878432195-o7mtobt4bs3o810qhgv5gt1jsbr2dl23.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS_B2wtnENNPEXO6NqHArz72oxx7iPzYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299878432195-o7mtobt4bs3o810qhgv5gt1jsbr2dl23.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
