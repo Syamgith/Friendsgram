@@ -22,7 +22,7 @@ class _HomeState extends State<Home> {
   @override
   void initState() {
     super.initState();
-    pageController = PageController(initialPage: 2);
+    pageController = PageController(initialPage: 0);
     //to signin
     googleSignIn.onCurrentUserChanged.listen((GoogleSignInAccount account) {
       handleSignIn(account);
